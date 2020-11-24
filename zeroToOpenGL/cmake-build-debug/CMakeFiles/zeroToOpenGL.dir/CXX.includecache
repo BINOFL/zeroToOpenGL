@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bytedance/CLionProjects/zeroToOpenGL/main.cpp
+tgaimage.h
+/Users/bytedance/CLionProjects/zeroToOpenGL/tgaimage.h
+
+/Users/bytedance/CLionProjects/zeroToOpenGL/tgaimage.h
+fstream
+-
+
